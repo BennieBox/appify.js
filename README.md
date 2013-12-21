@@ -7,7 +7,9 @@ Web application framework for creating Windows, OSX or Linux.
 Installing appify.js
 --------------------
 You only have to type this in node.js:
-```npm install appify```
+```
+npm install appify
+```
 It's easy as that!
 
 How do I use it?
